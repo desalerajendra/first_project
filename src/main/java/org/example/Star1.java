@@ -29,6 +29,7 @@ public class Star1 {// "static void main" must be defined in a public class.
             }
         }
     }
+
 /* Output
  *
  * *
